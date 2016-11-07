@@ -1,0 +1,3145 @@
+{
+	xcoord : 150
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : inner-1
+	ycoord : 750
+}
+{
+	xcoord : 200
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 800
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : bottom-right
+	ycoord : 750
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : right
+	ycoord : 800
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 800
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : bottom
+	ycoord : 750
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : bottom
+	ycoord : 750
+}
+{
+	xcoord : -400
+	name : solid-block
+	type : bottom
+	ycoord : 750
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 400
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 400
+}
+{
+	xcoord : -650
+	name : solid-block
+	type : top-left
+	ycoord : 400
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 350
+}
+{
+	xcoord : -600
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : bottom-left
+	ycoord : 350
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 400
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : -750
+	name : solid-block
+	type : bottom
+	ycoord : 200
+}
+{
+	xcoord : -700
+	name : solid-block
+	type : bottom-right
+	ycoord : 200
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 350
+}
+{
+	xcoord : 300
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : 500
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : left
+	ycoord : 350
+}
+{
+	xcoord : 450
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : inner-4
+	ycoord : 200
+}
+{
+	xcoord : -800
+	name : solid-block
+	type : bottom
+	ycoord : 200
+}
+{
+	xcoord : 400
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : top-left
+	ycoord : 750
+}
+{
+	xcoord : 100
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 850
+}
+{
+	xcoord : -700
+	name : solid-block
+	type : right
+	ycoord : 100
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 700
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : right
+	ycoord : 850
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 850
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : right
+	ycoord : 0
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : inner-1
+	ycoord : 700
+}
+{
+	xcoord : -50
+	name : zombie
+	ycoord : 650
+}
+{
+	xcoord : -700
+	name : solid-block
+	type : inner-4
+	ycoord : 50
+}
+{
+	xcoord : -650
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 700
+}
+{
+	xcoord : -600
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 700
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : top
+	ycoord : 750
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 650
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 650
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 650
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 900
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : left
+	ycoord : 0
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : right
+	ycoord : 900
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 900
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : left
+	ycoord : 650
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 650
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 650
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 650
+}
+{
+	xcoord : -450
+	name : health-pack
+	ycoord : 900
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : right
+	ycoord : -100
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : inner-2
+	ycoord : 100
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : top-right
+	ycoord : 100
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 650
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : right
+	ycoord : -50
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : right
+	ycoord : 50
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : left
+	ycoord : 850
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : left
+	ycoord : -50
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : left
+	ycoord : 50
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -300
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : left
+	ycoord : 100
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 100
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : top-left
+	ycoord : 100
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : left
+	ycoord : 900
+}
+{
+	xcoord : -400
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -200
+	name : glompus
+	ycoord : 850
+}
+{
+	xcoord : -750
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 700
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : left
+	ycoord : -100
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : inner-1
+	ycoord : 100
+}
+{
+	xcoord : -650
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : -350
+	name : glompus
+	ycoord : 850
+}
+{
+	xcoord : -700
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : -600
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : 300
+	name : solid-block
+	type : top
+	ycoord : 100
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : inner-3
+	ycoord : 50
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : bottom
+	ycoord : 200
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 700
+}
+{
+	xcoord : -250
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : inner-2
+	ycoord : 700
+}
+{
+	xcoord : -200
+	name : solid-block
+	type : bottom
+	ycoord : 50
+}
+{
+	xcoord : -800
+	name : solid-block
+	type : top
+	ycoord : 700
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : inner-3
+	ycoord : 350
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : inner-3
+	ycoord : -200
+}
+{
+	xcoord : 650
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : 700
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : 600
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : 300
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 400
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : top
+	ycoord : 100
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : bottom
+	ycoord : 350
+}
+{
+	xcoord : -250
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 350
+}
+{
+	xcoord : -200
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : left
+	ycoord : 800
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : inner-2
+	ycoord : 400
+}
+{
+	xcoord : 150
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : -300
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : bottom-left
+	ycoord : 200
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 200
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 200
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : inner-1
+	ycoord : 400
+}
+{
+	xcoord : 200
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 750
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : inner-4
+	ycoord : 750
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 750
+}
+{
+	xcoord : 100
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : bottom
+	ycoord : 200
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : top-right
+	ycoord : 400
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : inner-4
+	ycoord : -200
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : bottom
+	ycoord : -200
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : bottom-right
+	ycoord : 200
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : bottom
+	ycoord : 200
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : top
+	ycoord : 400
+}
+{
+	xcoord : -400
+	name : solid-block
+	type : top
+	ycoord : 250
+}
+{
+	xcoord : -200
+	name : stalactite
+	ycoord : 500
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : top
+	ycoord : 250
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : top-left
+	ycoord : 250
+}
+{
+	xcoord : -250
+	name : stalactite
+	ycoord : 500
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 500
+}
+{
+	xcoord : -150
+	name : stalactite
+	ycoord : 500
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : top-right
+	ycoord : 250
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : left
+	ycoord : 500
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 250
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 250
+}
+{
+	xcoord : -300
+	name : stalactite
+	ycoord : 500
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 500
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : bottom
+	ycoord : 500
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : bottom-right
+	ycoord : 500
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 550
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 550
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : top-right
+	ycoord : 550
+}
+{
+	xcoord : -600
+	name : doorway
+	ycoord : 550
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 550
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : bottom-left
+	ycoord : 500
+}
+{
+	xcoord : -200
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -250
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : right
+	ycoord : 450
+}
+{
+	xcoord : -400
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 600
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 600
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 600
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -300
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : top
+	ycoord : 950
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : inner-3
+	ycoord : 450
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 600
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 450
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : 0
+	name : solid-block
+	type : bottom
+	ycoord : 500
+}
+{
+	xcoord : -250
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : -200
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 300
+}
+{
+	xcoord : -700
+	name : solid-block
+	type : right
+	ycoord : 150
+}
+{
+	xcoord : -100
+	name : solid-block
+	type : inner-1
+	ycoord : 950
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : inner-4
+	ycoord : 450
+}
+{
+	xcoord : 300
+	name : bull
+	ycoord : 450
+}
+{
+	xcoord : -300
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : 500
+	name : bull
+	ycoord : 450
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : inner-3
+	ycoord : 450
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : left
+	ycoord : -150
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 450
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 450
+}
+{
+	xcoord : -650
+	name : solid-block
+	type : bottom-left
+	ycoord : 450
+}
+{
+	xcoord : -600
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : bottom
+	ycoord : 450
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 300
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 300
+}
+{
+	xcoord : -250
+	name : zombie
+	ycoord : 300
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 450
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 300
+}
+{
+	xcoord : -150
+	name : solid-block
+	type : left
+	ycoord : 150
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 150
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 150
+}
+{
+	xcoord : -500
+	name : solid-block
+	type : left
+	ycoord : 300
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 600
+}
+{
+	xcoord : -550
+	name : solid-block
+	type : inner-2
+	ycoord : 950
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : left
+	ycoord : 600
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : right
+	ycoord : 950
+}
+{
+	xcoord : 600
+	name : spikes
+	ycoord : 950
+}
+{
+	xcoord : -50
+	name : zombie
+	ycoord : 300
+}
+{
+	xcoord : 650
+	name : spikes
+	ycoord : 950
+}
+{
+	xcoord : 700
+	name : spikes
+	ycoord : 950
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 950
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 600
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : left
+	ycoord : 600
+}
+{
+	xcoord : -50
+	name : solid-block
+	type : right
+	ycoord : -150
+}
+{
+	xcoord : 50
+	name : solid-block
+	type : right
+	ycoord : 150
+}
+{
+	xcoord : 150
+	name : ladder
+	ycoord : 550
+}
+{
+	xcoord : 250
+	name : solid-block
+	type : top-left
+	ycoord : 550
+}
+{
+	xcoord : -350
+	name : solid-block
+	type : right
+	ycoord : 550
+}
+{
+	xcoord : 350
+	name : solid-block
+	type : top
+	ycoord : 550
+}
+{
+	xcoord : 300
+	name : solid-block
+	type : top
+	ycoord : 550
+}
+{
+	xcoord : 450
+	name : solid-block
+	type : top
+	ycoord : 550
+}
+{
+	xcoord : -450
+	name : solid-block
+	type : left
+	ycoord : 550
+}
+{
+	xcoord : 550
+	name : solid-block
+	type : inner-2
+	ycoord : 1000
+}
+{
+	xcoord : 600
+	name : solid-block
+	type : top
+	ycoord : 1000
+}
+{
+	xcoord : 500
+	name : solid-block
+	type : top
+	ycoord : 550
+}
+{
+	xcoord : 650
+	name : solid-block
+	type : top
+	ycoord : 1000
+}
+{
+	xcoord : 400
+	name : solid-block
+	type : top
+	ycoord : 550
+}
+{
+	xcoord : 700
+	name : solid-block
+	type : top
+	ycoord : 1000
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : inner-1
+	ycoord : 1000
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 500
+}
+{
+	xcoord : 750
+	name : solid-block
+	type : left
+	ycoord : 500
+}
+{
+	xcoord : -750
+	name : ladder
+	ycoord : 500
+}
+{
+	xcoord : -850
+	name : solid-block
+	type : right
+	ycoord : 250
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 550
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : 0
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 650
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 900
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 700
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 850
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 100
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : -100
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 350
+}
+{
+	xcoord : 350
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : -50
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 50
+}
+{
+	xcoord : 500
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 450
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : 400
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 750
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 200
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 400
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 800
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 400
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 450
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 500
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 350
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 350
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 500
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 450
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 400
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -350
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 550
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 300
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -450
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -400
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 450
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 250
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 950
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 150
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 950
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 950
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : 150
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -150
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -250
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 200
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -200
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 600
+}
+{
+	xcoord : -300
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -500
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : 300
+}
+{
+	xcoord : 550
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 600
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : 650
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -50
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 50
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : 700
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 500
+}
+{
+	xcoord : -800
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 0
+	name : background
+	type : brick
+	ycoord : -150
+}
+{
+	xcoord : -550
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -600
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -650
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : 100
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -100
+	name : background
+	type : brick
+	ycoord : 550
+}
+{
+	xcoord : -700
+	name : background
+	type : brick
+	ycoord : 250
+}
+{
+	xcoord : -750
+	name : background
+	type : brick
+	ycoord : 250
+}
