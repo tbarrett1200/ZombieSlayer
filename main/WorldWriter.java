@@ -19,7 +19,7 @@ public class WorldWriter {
 
 	public WorldWriter(String path) throws FileNotFoundException
 	{
-		file = new File("bin/"+path);
+		file = new File(path);
 		write = new Formatter(file);
 	}
 

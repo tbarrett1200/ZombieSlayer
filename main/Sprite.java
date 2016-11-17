@@ -22,7 +22,7 @@ public class Sprite {
 	public Sprite(String path)
 	{
 		try {
-			original=ImageIO.read(new File("bin/"+path));
+			original=ImageIO.read(new File(path));
 			vertical=reflectVertical(original);
 			horizontal=reflectHorizontal(original);
 			rotate90=reflectVertical(reflectHorizontal(original));

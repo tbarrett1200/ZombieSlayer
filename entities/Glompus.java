@@ -15,6 +15,7 @@ import world.SolidBlock;
  * Description: An enemy that throws rocks
  ******************************************************************************/
 
+@SuppressWarnings("serial")
 public class Glompus extends Enemy{
 
 	//timing variables
@@ -41,15 +42,11 @@ public class Glompus extends Enemy{
 		health.set(3);
 						
 		//if animation images not yet loaded
-		if (walkCycle==null)
+		if (!isWalkCycleSet())
 		{
-			walkCycle = new Sprite[2];
-			walkCycle[0] = new Sprite("img/glompus-walk-1.png");
-			walkCycle[1] = new Sprite("img/glompus-walk-2.png");
+			Sprite walkCycle[] = { new Sprite("img/glompus-walk-1.png"), new Sprite("img/glompus-walk-2.png") };
+			setWalkCycle(walkCycle, 200);
 		}
-		
-		//set animation frame length
-		walkCycleFrameDuration = 200;
 	}
 	
 

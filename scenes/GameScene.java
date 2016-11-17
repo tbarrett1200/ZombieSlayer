@@ -205,7 +205,7 @@ public class GameScene extends Scene implements KeyListener, MouseListener,Direc
 					
 				
 			//load next scene file
-			File next = new File("bin/levels/stage" + GameScene.level + ".txt");
+			File next = new File("levels/stage" + GameScene.level + ".txt");
 					
 			//load the next level or go to main menu
 			if (next.exists())
@@ -390,18 +390,18 @@ public class GameScene extends Scene implements KeyListener, MouseListener,Direc
 			//save player data
 			GameScene.data.exportData();
 					
-					
-				
 			//load next scene file
-			File next = new File("bin/levels/stage" + GameScene.level + ".txt");
+			File next = new File("levels/stage" + GameScene.level + ".txt");
 					
 			//load the next level or go to main menu
 			if (next.exists())
 			{
+				System.out.println("Change Level");
 				main.changeScene(new GameScene(main,"levels/stage" + GameScene.level + ".txt",GameScene.user));
 			}
 			else
 			{
+				System.out.println("Go To Main");
 				main.changeScene(new MenuScene(main));
 			}
 		});

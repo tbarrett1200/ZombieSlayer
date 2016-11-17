@@ -12,6 +12,7 @@ import world.SolidBlock;
  * Description: Bull
  ******************************************************************************/
 
+@SuppressWarnings("serial")
 public class Bull extends Enemy{
 
 	
@@ -33,15 +34,11 @@ public class Bull extends Enemy{
 		health.set(3);
 		
 		//if animation images not yet loaded
-		if (walkCycle==null)
+		if (!isWalkCycleSet())
 		{
-			walkCycle = new Sprite[2];
-			walkCycle[0] = new Sprite("img/bull-walk-1.png");
-			walkCycle[1] = new Sprite("img/bull-walk-2.png");
+			Sprite walkCycle[] = { new Sprite("img/bull-walk-1.png"), new Sprite("img/bull-walk-2.png") };
+			setWalkCycle(walkCycle, 200);
 		}
-		
-		//set animation frame length
-		walkCycleFrameDuration = 200;
 
 	}
 	

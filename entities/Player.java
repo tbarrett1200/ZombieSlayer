@@ -17,6 +17,7 @@ import world.SolidBlock;
  * Description: User controlled player
  ******************************************************************************/
 
+@SuppressWarnings("serial")
 public class Player extends Character {
 
 	//font used to display number of coins
@@ -72,15 +73,11 @@ public class Player extends Character {
 		//health
 		health.set(5);
 		
-		//sets walk cycle array
-		if (walkCycle==null)
-		{
-			walkCycle = new Sprite[2];
-			walkCycle[0] = new Sprite("img/player-walk-1.png");
-			walkCycle[1] = new Sprite("img/player-walk-2.png");
+		if (!isWalkCycleSet()) {
+			Sprite walkCycle[] = { new Sprite("img/player-walk-1.png"), new Sprite("img/player-walk-2.png") };
+			setWalkCycle(walkCycle, 100);
 		}
-		
-		walkCycleFrameDuration = 100;	
+
 	}
 	
 	//cancels jump
@@ -179,7 +176,7 @@ public class Player extends Character {
 			else if (!touchingGround()) //jump
 				jump.paint(g, x, y, width, height, Sprite.FLIP_HORIZONTAL);
 			else
-				walkCycle[currentFrame].paint(g, x, y, width, height, Sprite.FLIP_HORIZONTAL);
+				getSprite().paint(g, x, y, width, height, Sprite.FLIP_HORIZONTAL);
 		}
 		else
 		{
@@ -188,7 +185,7 @@ public class Player extends Character {
 			else if (!touchingGround()) //jump
 				jump.paint(g, x, y, width, height, 0);
 			else
-				walkCycle[currentFrame].paint(g, x, y, width, height, 0);
+				getSprite().paint(g, x, y, width, height, 0);
 		}
 		
 		g.setFont(coinFont);

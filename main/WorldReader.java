@@ -19,7 +19,7 @@ public class WorldReader{
 
 	public WorldReader(String path) throws FileNotFoundException
 	{
-		file = new File("bin/"+path);
+		file = new File(path);
 		scan = new Scanner(file);
 	}
 

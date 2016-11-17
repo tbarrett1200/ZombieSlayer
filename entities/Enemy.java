@@ -15,6 +15,7 @@ import world.SolidBlock;
  * Description: A base class for enemies
  ******************************************************************************/
 
+@SuppressWarnings("serial")
 public class Enemy extends Character
 {
 
@@ -114,9 +115,6 @@ public class Enemy extends Character
 		if (moving==Right) dx=speed;
 		else if (moving==Left) dx=-speed;
 		
-		if (moving!=None)
-			updateWalkCycle();
-		
 		if (health.health<=0)
 		{
 			scene.remove(this);
@@ -154,11 +152,11 @@ public class Enemy extends Character
 	{
 		if (facing==Left)
 		{
-			walkCycle[currentFrame].paint(g, x, y, width, height, Sprite.FLIP_HORIZONTAL);
+			getSprite().paint(g, x, y, width, height, Sprite.FLIP_HORIZONTAL);
 		}
 		else
 		{
-			walkCycle[currentFrame].paint(g, x, y, width, height, 0);
+			getSprite().paint(g, x, y, width, height, 0);
 		}
 		
 		health.paint(g);

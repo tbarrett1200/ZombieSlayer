@@ -8,6 +8,7 @@ import main.PhysicsObject;
 import main.Sprite;
 import scenes.GameScene;
 
+@SuppressWarnings("serial")
 public class AcidBlood extends PhysicsObject{
 	
 	//array of animation images

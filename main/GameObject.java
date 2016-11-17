@@ -9,32 +9,29 @@ package main;
 
 import java.awt.Color;
 import java.awt.Graphics;
+import java.awt.geom.Rectangle2D;
 
-public class GameObject implements Directions {
-
+@SuppressWarnings("serial")
+public class GameObject extends Rectangle2D.Double implements Directions{
+	
 	//scene that object belongs to
 	public Scene scene;
 	
 	//position and movement information
-	public double x, y, width, height, dx, dy;
+	public double dx, dy;
 
 	//creates a new game object based on coordinates and dimensions
 	public GameObject(Scene s,double x, double y, double width, double height)
 	{
-		this.x=x;
-		this.y=y;
-		this.width=width;
-		this.height=height;
+		super(x, y, width, height);
+		
 		scene=s;
 	}
 	
 	//creates a new game object based on coordinates and dimensions
 	public GameObject(double x, double y, double width, double height)
 	{
-		this.x=x;
-		this.y=y;
-		this.width=width;
-		this.height=height;
+		super(x,y,width,height);
 		scene=null;
 	}
 		
@@ -99,35 +96,11 @@ public class GameObject implements Directions {
 		}
 	}
 
-	//returns true if intersects o
-	public boolean intersects(GameObject o)
-	{
-		if ((x+width)-o.x > 0.00001 && (o.x+o.width)-x > 0.00001)
-		{
-			if ((y+height)-o.y > 0.00001 && (o.y+o.height)-y > 0.00001)
-			{
-				return true;
-			}
-		}
-		return false;
-	}
-	
-	//returns true if contains specified point
-	public boolean contains(double px, double py)
-	{
-		if (px>=x && px<=(x+width))
-		{
-			if (py>=y && py<=(y+height))
-			{
-				return true;
-			}
-		}
-		return false;
-	}
-	
+
 	//increases the objects speed in a certain direction by the given value
 	public void accelerate(int dx, int dy)
 	{
+
 		this.dx+=dx;
 		this.dy+=dy;
 	}

@@ -12,7 +12,8 @@ import world.HealthBar;
  * Description: A base class for characters
  ******************************************************************************/
 
-public class Character extends PhysicsObject{
+@SuppressWarnings("serial")
+public abstract class Character extends PhysicsObject{
 
 	
 	//direction character is facing
@@ -29,10 +30,10 @@ public class Character extends PhysicsObject{
 	public HealthBar health=new HealthBar(this);
 
 	//walking animation data
-	Sprite[] walkCycle;	
-	int currentFrame=0;
-	long walkCycleFrameDuration=0;
-	long walkCycleFrameChange=0;
+	private Sprite[] walkCycle;	
+	private int currentFrame=0;
+	private long walkCycleFrameDuration=0;
+	private long walkCycleFrameChange=0;
 	
 	/***************************************************************************
 	* constructor
@@ -41,6 +42,17 @@ public class Character extends PhysicsObject{
 		super(scene, name, x, y, width, height);
 	}
 
+	public boolean isWalkCycleSet() {
+		return walkCycle != null;
+	}
+	public void setWalkCycle(Sprite img[],long duration) {
+		walkCycle = img;
+		walkCycleFrameDuration = duration;
+	}
+	public Sprite getSprite() {
+		return walkCycle[currentFrame];
+	}
+	
 	/***************************************************************************
 	* updates object each frame
 	***************************************************************************/
@@ -56,10 +68,11 @@ public class Character extends PhysicsObject{
 		else currentFrame=0;
 	}
 	
+	
 	/***************************************************************************
 	* updates walk cycle image
 	***************************************************************************/
-	public void updateWalkCycle()
+	private void updateWalkCycle()
 	{
 		//gets current time in milliseconds
 		long currentTime = System.currentTimeMillis();

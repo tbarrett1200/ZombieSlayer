@@ -15,6 +15,7 @@ import world.SolidBlock;
  * Description: Zombie
  ******************************************************************************/
 
+@SuppressWarnings("serial")
 public class Zombie extends Enemy{
 
 
@@ -43,16 +44,11 @@ public class Zombie extends Enemy{
 				
 
 		//if image set is not yet loaded
-		if (walkCycle==null)
+		if (!isWalkCycleSet())
 		{
-			//creates the walk cycle Sprite array
-			walkCycle = new Sprite[2];
-			walkCycle[0] = new Sprite("img/zombie-walk-1.png");
-			walkCycle[1] = new Sprite("img/zombie-walk-2.png");
+			Sprite walkCycle[] = { new Sprite("img/zombie-walk-1.png"), new Sprite("img/zombie-walk-2.png") };
+			setWalkCycle(walkCycle, 200);
 		}
-		
-		//sets the time between image changes to be 200ms
-		walkCycleFrameDuration = 200;
 
 	}
 
